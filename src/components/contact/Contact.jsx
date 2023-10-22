@@ -33,7 +33,7 @@ export default function Contact() {
   return (
     <div>
         <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Connect to Me..</h1>
-      <div className="row flex justify-center items-center h-screen bg-gray-100 lg:h-screen lg:items-center lg:flex lg:justify-center lg:bg-white lg:shadow mb-30 mt-20">
+      <div className="row flex justify-center items-center h-screen bg-gray-100 lg:h-screen lg:items-center lg:flex lg:justify-center lg:bg-white lg:shadow mb-30">
         
         <div className="w-full lg:w-1/2 lg:h-full lg:px-20 lg:py-20  lg:rounded  lg:bg-white ml-20">
           <img style={{ width: "300px" , height: "300px" , margin: "auto" , display: "block" }} src="https://i.ibb.co/2M7rtLk/Remote1.png" alt="" />

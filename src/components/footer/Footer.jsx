@@ -9,10 +9,11 @@ function Footer() {
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <img
-                                src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
+                                 src="https://avatars.githubusercontent.com/u/72243994?s=400&u=9396df56ee2eb4afeab950ccccc1a731aace2db9&v=4"
                                 className="mr-3 h-16"
                                 alt="Logo"
                             />
+                            <h1 className='text-2xl font-bold text-gray-800 lg:text-3xl lg'> Raja..</h1>
                         </Link>
                     </div>
                     <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
