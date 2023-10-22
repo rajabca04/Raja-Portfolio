@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { useLoaderData } from 'react-router-dom'
+// import { useLoaderData } from 'react-router-dom'
 
 function Github() {
   
@@ -26,7 +26,7 @@ function Github() {
     <p>{data.hireable}</p>
     <p>{data.html_url}</p>
     <p>{data.public_repos}</p>
-    <img style={{marginTop: '-250px'}} src={data.avatar_url} alt="Git picture" width={300} />
+    <img style={{marginTop: '-250px'}} src={data.avatar_url} alt="Gitpic" width={300} />
 
     </div>
   )

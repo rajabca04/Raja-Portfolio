@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 function About() {
     return (
         <div className="py-16 bg-white">
@@ -8,7 +8,7 @@ function About() {
                     <div className="md:5/12 lg:w-5/12">
                         <img
                             src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png"
-                            alt="image"
+                            alt="img"
                         />
                     </div>
                     <div className="md:7/12 lg:w-6/12">
